@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author allan
+ * @author uelberti
  */
 public class Calculadora {
     
