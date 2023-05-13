@@ -6,7 +6,7 @@ package exercicios.atividadecalculadora;
 
 /**
  *
- * @author allan
+ * @author uelberti
  */
 public class AtividadeCalculadora {
     
